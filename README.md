@@ -3,7 +3,7 @@ List of Android Libraries
 
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
-**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui).**
+**UI/UX Library is [here](https://github.com/sumitsingh1111/Awesome-Android-Ui).**
 
 ### Index
 * [Networking](#networking)
